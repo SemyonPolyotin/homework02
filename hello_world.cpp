@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+// no using namespace here
 
 int main(){
   std::string name;
