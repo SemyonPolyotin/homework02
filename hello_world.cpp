@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-//no using namespace here
+// no using namespace ->here<-
 
 int
 main()
@@ -11,4 +11,4 @@ main()
             << std::endl;
   return 0;
 }
-//more simple text
+//more simple text <-there->
